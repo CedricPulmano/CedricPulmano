@@ -1,12 +1,12 @@
-👋 Hi, I’m @CedricPulmano \n
-👀 I’m interested in playing guitar, watching movies, and trying new foods!
-🌱 I’m currently learning Java, HTML, CSS, and JavaScript.
-💞️ I’m looking to collaborate on any sorts of creative projects.
-📫 Feel free to reach out!
+👋 Hi, I’m @CedricPulmano <br />
+👀 I’m interested in playing guitar, watching movies, and trying new foods! <br />
+🌱 I’m currently learning Java, HTML, CSS, and JavaScript. <br />
+💞️ I’m looking to collaborate on any sorts of creative projects. <br />
+📫 Feel free to reach out! <br />
 
-Email - pulmano.cedric@gmail.com
-LinkedIn - Cedric Pulmano
-Instagram - @edgycedgie
+Email - pulmano.cedric@gmail.com <br />
+LinkedIn - Cedric Pulmano <br />
+Instagram - @edgycedgie <br />
 
 <!---
 CedricPulmano/CedricPulmano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
