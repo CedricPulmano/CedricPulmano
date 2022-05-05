@@ -1,4 +1,4 @@
-👋 Hi, I’m @CedricPulmano
+👋 Hi, I’m @CedricPulmano \n
 👀 I’m interested in playing guitar, watching movies, and trying new foods!
 🌱 I’m currently learning Java, HTML, CSS, and JavaScript.
 💞️ I’m looking to collaborate on any sorts of creative projects.
