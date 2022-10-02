@@ -5,8 +5,7 @@
 📫 Feel free to reach out! <br />
 
 Email - pulmano.cedric@gmail.com <br />
-LinkedIn - Cedric Pulmano <br />
-Instagram - @edgycedgie <br />
+Phone Number - 236-866-8826
 
 <!---
 CedricPulmano/CedricPulmano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
