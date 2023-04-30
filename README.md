@@ -1,10 +1,9 @@
 👋 Hi, I’m @CedricPulmano <br />
-👀 I’m interested in playing guitar, watching movies, and trying new foods! <br />
-🌱 I’m currently learning Java, HTML, CSS, and JavaScript. <br />
-💞️ I’m looking to collaborate on any sorts of creative projects. <br />
-📫 Feel free to reach out! <br />
+👀 I’m interested in playing guitar, watching movies, and going to the gym <br />
 
 Email - pulmano.cedric@gmail.com <br />
+LinkedIn - https://www.linkedin.com/in/cedric-pulmano-16399b212/
+Website - https://pulmano-cedric-portfolio.web.app/
 Phone Number - 236-866-8826
 
 <!---
